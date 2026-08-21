@@ -30,7 +30,7 @@ i can do machine-level languages and modern languages too:
   <img src="Rust_programming_language_black_logo.svg.png" width="32" height="32" />
 </p>
 
-if you want to contact me, you can send me a message on discord (mohaxn8)
+if you want to contact me, you can send me a message on discord (prhopespering)
 or an email at moudouina@gmail.com if you feel more corporate
 
 have a nice day,
