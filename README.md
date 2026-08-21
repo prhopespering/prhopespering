@@ -15,7 +15,7 @@ welcome. i do fullstack stuff, web & mobile. here is a non-exhaustive list of th
   <img src="Postgresql_elephant.svg" width="32" height="33" />
 </p>
 
-and i can do machine-level languages and modern languages too:
+i can do machine-level languages and modern languages too:
 
 <p>
   <img src="C_Programming_Language.svg.png" width="32" height="36" />
